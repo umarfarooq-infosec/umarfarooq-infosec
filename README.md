@@ -9,12 +9,12 @@
 - 🎓 **MSc Cyber Security with Placement Year**, University of Kent (2026–2028)
 - 🎓 **BSc (Hons) Cyber Security and Digital Forensics (2:1)**, University of Sunderland (2024)
 - 📜 **Cisco Certified Network Associate (CCNA)** · [verify on Credly](https://www.credly.com/badges/f7c15b96-efd8-4b84-a34a-622d01a034eb)
-- 🛡️ Front-line fraud response at EE (via Concentrix): SIM-swap and account-takeover cases, compromised account lockdown, IMEI blacklisting, phishing and malware support
+- 🛡️ Customer Service Advisor at Concentrix for EE and BT: first point of contact on fraud calls, securing compromised accounts, suspending SIMs, blacklisting stolen devices and escalating cases to the fraud team
 - 🌐 Network engineering: Cisco Meraki deployment, site surveys, network migrations and server installs
 
 ## Skills
 
-**Security:** incident investigation · fraud and account-compromise response · phishing analysis · threat intelligence · digital forensics
+**Security:** front-line fraud handling · account security · phishing awareness · threat intelligence · digital forensics
 
 **Networking:** Cisco routing and switching · OSPF · BGP · MPLS · VLANs · Cisco Meraki · Wireshark
 
